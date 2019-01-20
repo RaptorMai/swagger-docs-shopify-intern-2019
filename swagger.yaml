@@ -16,12 +16,12 @@ tags:
   description: "Information about the products"
   externalDocs:
     description: "Find out more"
-    url: "https://github.com/RaptorMai"
+    url: "https://github.com/RaptorMai/Build-the-barebones-of-an-online-marketplace"
 - name: "Cart"
   description: "Cart related action"
   externalDocs:
     description: "Find out more"
-    url: "https://github.com/RaptorMai"
+    url: "https://github.com/RaptorMai/Build-the-barebones-of-an-online-marketplace"
 
 schemes:
 - "https"
