@@ -11,7 +11,7 @@ This describes how use the [Swagger UI](https://github.com/swagger-api/swagger-u
 
 The example API specification used by this repository can be seen hosted at [https://peter-evans.github.io/swagger-github-pages](https://peter-evans.github.io/swagger-github-pages/).
 
-## Steps
+#### Steps
 
 1. Download the latest stable release of the Swagger UI [here](https://github.com/swagger-api/swagger-ui/releases).
 
