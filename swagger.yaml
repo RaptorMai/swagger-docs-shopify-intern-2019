@@ -44,8 +44,7 @@ paths:
       responses:
         200:
           description: "All products in the market"
-        400:
-          description: "Invalid status value"
+
   /products/{product_id}:
     get:
       tags:
@@ -150,9 +149,10 @@ paths:
           - "temp_password"
       responses:
         200:
-          description: "Shopping cart check outs successfully"
+          description: "Request is proccess sucessfully"
         404:
           description: "You don't have a cart, add something before check out"
+
   
   /cart/showcart:
     get:
