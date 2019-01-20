@@ -6,6 +6,7 @@ API document for Shopify 2019 backend intern
 ## How to host Swagger API documentation with GitHub Pages
 
 **Borrowed from @peter-evans. Thank you Peter for the help**   
+
 This describes how use the [Swagger UI](https://github.com/swagger-api/swagger-ui) to dynamically generate beautiful documentation for your API and host it for free with GitHub Pages.
 
 The example API specification used by this repository can be seen hosted at [https://peter-evans.github.io/swagger-github-pages](https://peter-evans.github.io/swagger-github-pages/).
